@@ -1,0 +1,1 @@
+[{"ear": "BW_StoreTrans", "folder": "Sterling", "applications": ["BW_StoreTrans-UK", "BW_StoreTrans-US"]}, {"ear": "BW_Adapter", "folder": "Sterling", "applications": ["BW_Adapter-UK", "BW_Adapter-US"]}, {"ear": "OrderSubmit", "folder": "Sterling", "applications": ["OrderSubmit"]}]
